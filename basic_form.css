@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.content{
+    background-color:#383634;
+    height:100vh;
+}
+h1{
+    color:#fff70f;
+    font-weight: bold;
+    font-family: Times New Roman;
+    font-size: 50px;
+    margin-top: 0px;
+    letter-spacing:4px;
+}
+p{
+   color:#00fc00;
+   font-size: 40px;
+   margin-bottom: 0px;
+   font-weight: 600;
+   font-family: Trebuchet MS;
+}
+.main_head{
+    text-align:center;
+    margin-bottom:55px;
+    color: #fc9c00;
+    font-family: Sans-Serif;
+    font-size:70px;
+}
+.sign_in {
+    border-color: #FFDDA9;
+    background-color: rgba(0,0,0,0.5);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    padding:10px;
+    margin-left:0px;
+    margin-top: 0px;
+}
+.first,.form-check-label {
+    color: #a7bac7;
+    font-size: 23px;
+    font-weight: 600;
+    
+}
+.form-check-input{
+    height:27px;
+}
+
+.submit {
+    color: #a7bac7;
+    font-weight: bold;
+    font-size: 20px;
+    width: 150px;
+     border-width: 2px;
+     border-color:#f2a35a;
+     border-radius: 5px;
+     text-align: center;
+
+}
+.into{
+    text-align: center;
+    margin-top: 100px;
+}
+
